@@ -147,7 +147,7 @@ export default function EarningsPressReleaseGenerator() {
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-gray-900 mb-2">Earnings Press Release Generator</h1>
+          <h1 className="text-4xl font-bold text-gray-900 mb-2">AiirHub - POC for Earnings Press Release Generator</h1>
           <p className="text-lg text-gray-600">
             Extract section templates from sample press releases and generate new ones from 10-Q filings
           </p>
