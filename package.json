@@ -50,6 +50,8 @@
     "lucide-react": "^0.454.0",
     "next": "15.2.4",
     "next-themes": "latest",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^5.4.54",
     "react": "^19",
     "react-day-picker": "latest",
     "react-dom": "^19",
@@ -65,6 +67,7 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.9",
     "@types/node": "^22",
+    "@types/pdf-parse": "^1.1.5",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "postcss": "^8.5",
